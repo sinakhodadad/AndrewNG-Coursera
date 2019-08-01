@@ -1,4 +1,4 @@
-﻿% submitWeb Creates files from your code and output for web submission.
+% submitWeb Creates files from your code and output for web submission.
 %
 %   If the submit function does not work for you, use the web-submission mechanism.
 %   Call this function to produce a file for the part you wish to submit. Then,

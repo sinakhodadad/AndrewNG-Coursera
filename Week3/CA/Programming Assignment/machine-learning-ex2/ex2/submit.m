@@ -1,4 +1,4 @@
-﻿function submit(partId, webSubmit)
+function submit(partId, webSubmit)
 %SUBMIT Submit your code and output to the ml-class servers
 %   SUBMIT() will connect to the ml-class server and submit your solution
 
