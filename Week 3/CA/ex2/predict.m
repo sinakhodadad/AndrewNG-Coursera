@@ -15,8 +15,16 @@ p = zeros(m, 1);
 %               You should set p to a vector of 0's and 1's
 %
 
+h_theta = X*theta;
+for i=1:size(h_theta,1)
+	for j=1:size(h_theta,2)
+		if(h_theta(i,j) > 0.5)
+			p(i) = 1;
+		end
+	end
+end
 
-
+					
 
 
 
